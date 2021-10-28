@@ -1,13 +1,13 @@
 
-<h1> :snowflake: Who am I? </h1>
+<h1> > whoami </h1>
 
  - :telephone_receiver: Hi, I'm Ahmet Yusuf and i'm currently studying Computer Science/Engineering.
 
- - :gem: I love programming in C++. But also still learning C#, Java, Python and bunch of libs.
+ - :gem: I love programming in C++ and Golang. But also still learning C#, Java, Python.
 
- - :airplane: My eyes are above the clouds. Literally. I love aeroplanes, drones and jets. I also love cars.
+ - :cloud: My eyes are above the clouds. But these clouds are little diffrent than real ones.
  
- - :books: I'm currerntly doing some deep learning stuff with Dlib. Using OpenCV for image processing and learning Keras-Tensorflow
+ - :books: I'm currerntly working on Kubernetes and Blockchain.
 
  - :telescope: To reach me use one of these  
 
