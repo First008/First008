@@ -1,9 +1,7 @@
 
 <h1> > whoami </h1>
 
- - :telephone_receiver: Hi, I'm Ahmet Yusuf and i'm currently studying Computer Science/Engineering.
-
- - :gem: I love programming in C++ and Golang. But also still learning C#, Java, Python.
+ - :gem: I love programming in C++ and Golang. But also can codes with C#, Java, Python.
 
  - :cloud: My eyes are above the clouds. But these clouds are little diffrent than real ones.
  
