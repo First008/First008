@@ -1,5 +1,7 @@
 [![Updated Badge](https://badges.pufler.dev/updated/First008/First008)](https://badges.pufler.dev)
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/First008)](https://badges.pufler.dev)
+[![Image of https://github.com/First008/my-profile-views-counter](https://github.com/First008/my-profile-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/First008/my-profile-views-counter)
+
 
 
 <h1> > whoami </h1>
