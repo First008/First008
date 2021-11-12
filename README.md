@@ -1,6 +1,6 @@
 [![Updated Badge](https://badges.pufler.dev/updated/First008/First008)](https://badges.pufler.dev)
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/First008)](https://badges.pufler.dev)
-[![Image of https://github.com/First008/First008](https://github.com/First008/First008/blob/master/svg/profile/badge.svg)](https://github.com/First008/First008)
+[![Image of https://github.com/First008/First0080](https://github.com/First008/First0080/blob/master/svg/profile/badge.svg)](https://github.com/First008/First0080)
 
 
 
