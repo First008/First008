@@ -1,4 +1,3 @@
-![visitors](https://visitor-badge.glitch.me/badge?page_id=First008&left_color=dark_blue&right_color=blue)
 [![Updated Badge](https://badges.pufler.dev/updated/First008/First008)](https://badges.pufler.dev)
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/First008)](https://badges.pufler.dev)
 
