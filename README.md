@@ -14,7 +14,9 @@
 
  - To reach me use one of these  
 
- - <a href="https://tr.linkedin.com/in/ahmet-yusuf-birinci-0650aa177" rel="nofollow"><img src="./img/linkedin.svg" width="28"></a><a href="mailto:ayb84870@gmail.com"><img src="./img/mail.svg" width="33" style="margin: 0px 10px 0px 10px;"></a><a href="https://www.instagram.com/ahmetyusufbirinci/"><img src="./img/instagram.svg" width="30"></a>
+ - <a href="https://tr.linkedin.com/in/ahmet-yusuf-birinci-0650aa177" rel="nofollow"><img src="./img/linkedin.svg" width="28"></a> &nbsp;
+<a href="mailto:ayb84870@gmail.com"><img src="./img/mail.svg" width="33" style="margin: 0px 10px 0px 10px;"></a> &nbsp;
+<a href="https://www.instagram.com/ahmetyusufbirinci/"><img src="./img/instagram.svg" width="30"></a>
 
 ### Weekly activity
 <!--START_SECTION:waka-->
