@@ -21,12 +21,12 @@
 ### Weekly activity
 <!--START_SECTION:waka-->
 ```text
-Week: 13 November, 2021 - 19 November, 2021
+Week: 14 November, 2021 - 20 November, 2021
 
-Go         6 hrs 28 mins   ███████████████▓░░░░░░░░░   62.71 % 
-Markdown   2 hrs 13 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.50 % 
-YAML       1 hr 1 min      ██▒░░░░░░░░░░░░░░░░░░░░░░   09.99 % 
-Docker     16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
+Go         6 hrs 28 mins   ███████████████▓░░░░░░░░░   62.85 % 
+Markdown   2 hrs 11 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.32 % 
+YAML       1 hr 1 min      ██▓░░░░░░░░░░░░░░░░░░░░░░   10.02 % 
+Docker     16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
 Bash       14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
 ```
 <!--END_SECTION:waka-->
