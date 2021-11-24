@@ -21,7 +21,7 @@
 ### Weekly activity
 <!--START_SECTION:waka-->
 ```text
-Week: 16 November, 2021 - 22 November, 2021
+Week: 17 November, 2021 - 23 November, 2021
 
 Go         6 hrs 28 mins   █████████████░░░░░░░░░░░░   51.36 % 
 Markdown   4 hrs 30 mins   █████████░░░░░░░░░░░░░░░░   35.82 % 
