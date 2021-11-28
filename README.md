@@ -21,9 +21,9 @@
 ### Weekly activity
 <!--START_SECTION:waka-->
 ```text
-Week: 20 November, 2021 - 26 November, 2021
+Week: 21 November, 2021 - 27 November, 2021
 
-Markdown   4 hrs 19 mins   █████████████████████████   100.00 % 
+Markdown   2 hrs 45 mins   █████████████████████████   99.89 % 
 ```
 <!--END_SECTION:waka-->
 
