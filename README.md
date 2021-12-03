@@ -21,7 +21,7 @@
 ### Weekly activity
 <!--START_SECTION:waka-->
 ```text
-Week: 25 November, 2021 - 01 December, 2021
+Week: 26 November, 2021 - 02 December, 2021
 
 Markdown   1 hr 41 mins    █████████████████████████   99.82 % 
 ```
