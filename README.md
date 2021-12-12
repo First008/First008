@@ -21,13 +21,13 @@
 ### Weekly activity
 <!--START_SECTION:waka-->
 ```text
-Week: 04 December, 2021 - 10 December, 2021
+Week: 05 December, 2021 - 11 December, 2021
 
-Go           11 hrs 40 mins  █████████████████▓░░░░░░░   70.16 % 
-Markdown     3 hrs 42 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.28 % 
-YAML         58 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.86 % 
-Bash         15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
-Git Config   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+Go         11 hrs 40 mins  ███████████████▒░░░░░░░░░   61.09 % 
+Markdown   3 hrs 42 mins   █████░░░░░░░░░░░░░░░░░░░░   19.40 % 
+C++        2 hrs 25 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.70 % 
+YAML       58 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.11 % 
+Bash       15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
 ```
 <!--END_SECTION:waka-->
 
