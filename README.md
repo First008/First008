@@ -21,7 +21,7 @@
 ### Weekly activity
 <!--START_SECTION:waka-->
 ```text
-Week: 07 December, 2021 - 13 December, 2021
+Week: 08 December, 2021 - 14 December, 2021
 
 Go         11 hrs 40 mins  ███████████████▓░░░░░░░░░   62.13 % 
 C++        3 hrs 46 mins   █████░░░░░░░░░░░░░░░░░░░░   20.08 % 
