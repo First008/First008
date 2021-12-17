@@ -21,13 +21,13 @@
 ### Weekly activity
 <!--START_SECTION:waka-->
 ```text
-Week: 09 December, 2021 - 15 December, 2021
+Week: 10 December, 2021 - 16 December, 2021
 
-Go         5 hrs 38 mins   ███████████▒░░░░░░░░░░░░░   44.89 % 
-C++        3 hrs 46 mins   ███████▒░░░░░░░░░░░░░░░░░   29.99 % 
-Markdown   1 hr 25 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.37 % 
-YAML       43 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.73 % 
-Solidity   26 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
+C++          3 hrs 46 mins   ████████▒░░░░░░░░░░░░░░░░   32.79 % 
+JavaScript   3 hrs 5 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.86 % 
+HTML         1 hr 26 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.46 % 
+JSON         41 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.98 % 
+Markdown     37 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.45 % 
 ```
 <!--END_SECTION:waka-->
 
