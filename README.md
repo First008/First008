@@ -21,7 +21,7 @@
 ### Weekly activity
 <!--START_SECTION:waka-->
 ```text
-Week: 10 December, 2021 - 16 December, 2021
+Week: 11 December, 2021 - 17 December, 2021
 
 C++          3 hrs 46 mins   ████████▒░░░░░░░░░░░░░░░░   32.79 % 
 JavaScript   3 hrs 5 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.86 % 
