@@ -21,7 +21,7 @@
 ### Weekly activity
 <!--START_SECTION:waka-->
 ```text
-Week: 13 December, 2021 - 19 December, 2021
+Week: 14 December, 2021 - 20 December, 2021
 
 JavaScript   3 hrs 5 mins    ████████▓░░░░░░░░░░░░░░░░   35.21 % 
 HTML         1 hr 26 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.33 % 
