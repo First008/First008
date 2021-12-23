@@ -21,13 +21,13 @@
 ### Weekly activity
 <!--START_SECTION:waka-->
 ```text
-Week: 15 December, 2021 - 21 December, 2021
+Week: 16 December, 2021 - 22 December, 2021
 
-JavaScript   3 hrs 5 mins    ████████▓░░░░░░░░░░░░░░░░   35.21 % 
-HTML         1 hr 26 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.33 % 
-C++          52 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.93 % 
-Text         38 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 % 
-JSON         36 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
+JavaScript   2 hrs 50 mins   █████████▒░░░░░░░░░░░░░░░   37.89 % 
+HTML         1 hr 26 mins    ████▓░░░░░░░░░░░░░░░░░░░░   19.14 % 
+C++          52 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.63 % 
+Text         38 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 % 
+JSON         36 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.08 % 
 ```
 <!--END_SECTION:waka-->
 
