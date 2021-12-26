@@ -21,11 +21,7 @@
 ### Weekly activity
 <!--START_SECTION:waka-->
 ```text
-Week: 18 December, 2021 - 24 December, 2021
-
-C++        52 mins         ████████████▓░░░░░░░░░░░░   51.25 % 
-Text       38 mins         █████████▒░░░░░░░░░░░░░░░   37.86 % 
-Markdown   11 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.89 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
